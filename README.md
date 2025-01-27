@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dimas
-- 👀 I’m interested in security field
-- 🌱 I’m currently learning high school
-- 💞️ I’m looking to collaborate on tech
+- 🌱 I’m currently learning security field
 - 📫 You can reach me at huh.tiring872@passfwd.com
 
 
