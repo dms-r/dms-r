@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dimas
-- 🌱 I’m currently learning security field
+- 🌱 My notes at [here](https://medium.com/@huh.me/8843adcb8197)
 - 📫 You can reach me at huh.tiring872@passfwd.com
 
 
