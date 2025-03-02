@@ -15,7 +15,7 @@
 - 📧 Email: huh.tiring872@passfwd.com
 
 ---
-💡 *"Learning is a never-ending process, and every day is an opportunity to grow!"*
+💡 *"Life is a journey. So, let's enjoy!"*
 ---
 
 <!---
