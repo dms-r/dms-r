@@ -18,13 +18,10 @@
 💡 *"Learning is a never-ending process, and every day is an opportunity to grow!"*
 ---
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dms-r&show_icons=true&theme=tokyonight)
-
 <!---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YourUsername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/YourUsername)
 --->
 
----
-💡 *"Learning is a never-ending process, and every day is an opportunity to grow!"*
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dms-r&show_icons=true&theme=tokyonight)
