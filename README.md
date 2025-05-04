@@ -1,20 +1,25 @@
 # Hello there! 👋 I'm Dimas 
 
 ## 🚀 About Me
-- 📚 Learning on servers and networks
-- 🔭 Have an interest in security
+- 📚 Learning on IT and Economics
+- 🔭 Have an interest in server, cybersecurity, and development
 
 ## 🛠️ Skills
 - 💻 Programming Languages: Python, Bash
-- 🔧 Tools & Frameworks: Git
+- 🔧 Tools & Frameworks: Linux (Debian), Git
 
 ## 📫 How to reach me
-- 📧 Email: huh.tiring872@passfwd.com
-- 🌐 Blog: [dms-r.github.io](https://dms-r.github.io/)
+- 📧 Email: dimasr@duck.com
+- 🌐 Medium: [dms-r.medium.com](https://dms-r.medium.com/)
+- 🌐 Other blog: [dms-r.github.io](https://dms-r.github.io/)
+
 
 ---
-💡 *"With good skills and relationships, fortune will not leave.!"*
+💡 *"Just students who live to enjoy and seek the purpose of life."*
 ---
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dms-r&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms-r&layout=donut)
+
+
