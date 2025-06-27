@@ -1,21 +1,17 @@
 # Hello there! 👋 I'm Dimas 
 
 ## 🚀 About Me
-- 📚 Learning on IT and Economics
-- 🔭 Have an interest in server, cybersecurity, and development
+I am a self-taught Systems Administrator and IT Support since high school, with a deep interest in Linux, server administration, and cybersecurity.
 
 ## 🛠️ Skills
 - 💻 Programming Languages: Python, Bash
-- 🔧 Tools & Frameworks: Linux (Debian), Git
+- 🔧 Tools & Frameworks: Linux (Debian), Git, Burpsuite
 
 ## 📫 How to reach me
 - 📧 Email: dimasr@duck.com
 - 🌐 Medium: [dms-r.medium.com](https://dms-r.medium.com/)
 - 🌐 Other blog: [dms-r.github.io](https://dms-r.github.io/)
 
-
----
-💡 *"Just students who live to enjoy and seek the purpose of life."*
 ---
 
 ## 📊 GitHub Stats
