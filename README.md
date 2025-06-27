@@ -1,6 +1,4 @@
 # Hello there! 👋 I'm Dimas 
-
-## 🚀 About Me
 I am a self-taught Systems Administrator and IT Support since high school, with a deep interest in Linux, server administration, and cybersecurity.
 
 ## 🛠️ Skills
@@ -11,8 +9,6 @@ I am a self-taught Systems Administrator and IT Support since high school, with 
 - 📧 Email: dimasr@duck.com
 - 🌐 Medium: [dms-r.medium.com](https://dms-r.medium.com/)
 - 🌐 Other blog: [dms-r.github.io](https://dms-r.github.io/)
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dms-r&show_icons=true&theme=tokyonight)
