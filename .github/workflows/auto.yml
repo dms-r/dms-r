@@ -21,5 +21,14 @@ jobs:
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v6
+        id: auto-commit-action #mandatory for the output to show up in ${{ steps }}
         with:
-          commit_message: Auto Commit
+          commit_message: Auto commit
+    
+      - name: "Run if changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: echo "Changes!"
+    
+      - name: "Run if no changes have been detected"
+        if: steps.auto-commit-action.outputs.changes_detected == 'false'
+        run: echo "No Changes!"
